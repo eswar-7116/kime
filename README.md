@@ -1,2 +1,2 @@
-# keychime
-Give your keys a chime
+# Kime
+Give your keys a chime!
