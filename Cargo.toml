@@ -1,6 +1,8 @@
 [package]
-name = "keychime"
+name = "kime"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+keytap = "0.4.0"
+rodio = "0.22.2"
